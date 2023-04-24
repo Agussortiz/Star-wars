@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#darth-vader{
+    font-size: 300%;
+}
+
+.soldados{
+    border:dashed;
+    letter-spacing: 10px;
+}
+
+#luke{
+    font-style: italic;
+
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.naves{
+    text-transform: uppercase;
+}
+
+.droides{
+    text-align: center;
+}
